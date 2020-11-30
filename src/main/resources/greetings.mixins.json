@@ -1,0 +1,14 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "cipherallies.fabricmc.greetings",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+    ],
+    "server": [
+      "Greetings"
+    ],
+    "injectors": {
+      "defaultRequire": 1
+    }
+  }
